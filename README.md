@@ -31,7 +31,7 @@ Vítejte v našem projektu, jehož cílem je **vytvořit moderní aplikaci pro h
 
 ---
 
-## 🚀 **Technologie a architektura (příklad)**
+## 🚀 **Technologie a architektura**
 > Poznámka: Zde pak někdo přepište co budete používat
 
 - **Front-end**: React / Angular / Vue (vyberte dle potřeby)  
