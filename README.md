@@ -1,4 +1,4 @@
-# ** Webová aplikace pro hodnocení školních obědů**
+# Webová aplikace pro hodnocení školních obědů
 
 Vítejte v našem projektu, jehož cílem je **vytvořit moderní aplikaci pro hodnocení školních obědů**, která umožní studentům i zaměstnancům školy rychle a jednoduše sdělit zpětnou vazbu na kvalitu a podobu nabízených jídel.
 
