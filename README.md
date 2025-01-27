@@ -47,9 +47,7 @@ Vítejte v našem projektu, jehož cílem je **vytvořit moderní aplikaci pro h
 
 ├── frontend/ │ ├── public/ │ ├── src/ │ └── package.json ├── backend/ │ ├── src/ │ ├── tests/ │ └── package.json ├── docs/ │ └── UML_diagrams.md └── README.md
 
-markdown
-Copy
-Edit
+
 
 - **frontend/** – obsahuje klientskou část (UI)  
 - **backend/** – obsahuje serverovou logiku (API) a případně připojení k DB  
