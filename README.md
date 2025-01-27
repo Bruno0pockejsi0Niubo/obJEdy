@@ -32,7 +32,7 @@ Vítejte v našem projektu, jehož cílem je **vytvořit moderní aplikaci pro h
 ---
 
 ## 🚀 **Technologie a architektura (příklad)**
-> Poznámka: Zde si doplňte, co přesně používáte – např. React + Node.js, .NET Core, PHP, MySQL, atd.
+> Poznámka: Zde pak někdo přepište co budete používat
 
 - **Front-end**: React / Angular / Vue (vyberte dle potřeby)  
 - **Back-end**: Node.js / Express / ASP.NET / Django / …  
@@ -75,11 +75,11 @@ Edit
 5. **Zobrazení výsledků**  
    - Jako vedení školy chci vidět statistiky hodnocení, abych mohl reagovat na kvalitu jídel.
 
-(… a další rozšiřující příběhy podle potřeby.)
+
 
 ---
 
-## 📦 **Instalace a spuštění** (příklad – upravte dle vlastního řešení)
+## 📦 **Instalace a spuštění** 
 
 ### **1. Klonování repozitáře**
 ```bash
