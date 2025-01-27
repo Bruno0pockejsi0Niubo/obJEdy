@@ -38,8 +38,8 @@ Vítejte v našem projektu, jehož cílem je **vytvořit moderní aplikaci pro h
 - **Back-end**: Node.js / Express / ASP.NET / Django / …  
 - **Databáze**: MySQL / PostgreSQL / MongoDB / …  
 - **Autentifikace**: OAuth 2.0 / MS Graph (Office 365)  
-- **Repozitář**: Git (GitHub / GitLab / Bitbucket)  
-- **Správa úkolů**: Microsoft Planner / Trello / Asana  
+- **Repozitář**: Git GitHub
+- **Správa úkolů**: Microsoft Planner
 
 ---
 
